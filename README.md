@@ -11,6 +11,7 @@
 | [0066-plus-one](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0202-happy-number) |
 | [0507-perfect-number](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0507-perfect-number) |
+| [3959-check-good-integer](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/3959-check-good-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,4 +24,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0202-happy-number) |
+## Simulation
+|  |
+| ------- |
+| [3959-check-good-integer](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/3959-check-good-integer) |
 <!---LeetCode Topics End-->
