@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0066-plus-one) |
 ## Math
 |  |
@@ -16,6 +17,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
