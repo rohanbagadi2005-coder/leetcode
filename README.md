@@ -8,6 +8,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0202-happy-number) |
 | [0507-perfect-number](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0507-perfect-number) |
