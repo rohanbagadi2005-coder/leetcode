@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0066-plus-one) |
 ## Math
 |  |
@@ -31,4 +32,12 @@
 |  |
 | ------- |
 | [3959-check-good-integer](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/3959-check-good-integer) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
