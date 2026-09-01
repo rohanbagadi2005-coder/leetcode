@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0136-single-number) |
 ## Math
 |  |
 | ------- |
@@ -40,4 +41,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
