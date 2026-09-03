@@ -11,6 +11,7 @@
 | [0136-single-number](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0217-contains-duplicate) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 | [0202-happy-number](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0202-happy-number) |
 | [0507-perfect-number](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0507-perfect-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3959-check-good-integer](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/3959-check-good-integer) |
 ## Hash Table
 |  |
