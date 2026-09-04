@@ -12,6 +12,7 @@
 | [0217-contains-duplicate](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0217-contains-duplicate) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
@@ -60,4 +61,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
