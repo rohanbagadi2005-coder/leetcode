@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0202-happy-number) |
 | [0507-perfect-number](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0507-perfect-number) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
@@ -44,6 +46,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
