@@ -10,6 +10,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0283-move-zeroes) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/rohanbagadi2005-coder/leetcode/tree/master/0283-move-zeroes) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
